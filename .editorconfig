@@ -31,7 +31,7 @@ ij_properties_keep_blank_lines = true
 
 ij_yaml_indent_sequence_value = false
 
-[*.{json,md,yaml,yml}]
+[*.{json,md,xml,yaml,yml}]
 indent_size = 2
 ij_continuation_indent_size = 2
 

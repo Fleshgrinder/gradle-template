@@ -1,5 +1,8 @@
 /.idea/*
+!/.idea/gradle.xml
+!/.idea/icon*.png
 !/.idea/icon*.svg
+!/.idea/vcs.xml
 .gradle/
 build/
 !src/**/build/
